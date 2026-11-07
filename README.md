@@ -1,2 +1,2 @@
 # ecommerce_app
-about the objects like watches,dresses,laptops mobiles like this to order it
+A flutter based E-commerce application with product browsing,searching,shopping cart,quantity management,and checkout features.
